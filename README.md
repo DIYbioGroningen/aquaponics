@@ -1,4 +1,4 @@
-Thijs and ??? will work on this project for 3.5 hours a week on monday mornings (9:00 - 11:00) and thursday afternoon (15:00 - 16:30). I will skype with them every thursday afternoon to discuss the project.
+Thijs, Thymo and Jesse will work on this project for 3.5 hours a week on monday mornings (9:00 - 11:00) and thursday afternoon (15:00 - 16:30). I will skype with them every thursday afternoon to discuss the project.
 
 The project will run till the summer holiday and will have 2 phases, phase 1 needs to be completed by the first week of april:
 
