@@ -14,13 +14,13 @@
 Some kind of Arduino
 
 ###Soil moisture sensor
-https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide?_ga=1.194403118.227000660.1460965868
+[This one seems to be common](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide?_ga=1.194403118.227000660.1460965868)
 
 ###Water pump and valves
 To deliver the right ammount of water to the right plants.
 
 ###LED grow lights
-Maybe try and make our own whit LED light strip. Keep photosynthetically active radiation in mind.
+Maybe try and make our own white LED light strip. Keep [photosynthetically active radiation](https://en.wikipedia.org/wiki/Photosynthetically_active_radiation) in mind.
 
 ###pH sensor
 Can be usefull for some plants
