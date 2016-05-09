@@ -11,13 +11,13 @@
  * Real Time Clock
 
 ###Microcontroller
-Some kind of Arduino
+Some kind of [Arduino](http://arduino.cc)
 
 ###Soil moisture sensor
-[This one seems to be common](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide?_ga=1.194403118.227000660.1460965868)
+[Found a common one at Okaphone](http://www.okaphone.com/artikel.asp?id=475466) [Hookup guide](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide?_ga=1.194403118.227000660.1460965868)
 
 ###Water pump and valves
-To deliver the right ammount of water (and nutrient solution?) to the right plants.
+To deliver the right ammount of water (and nutrient solution?) to the right plants. [Some of these might work](http://www.okaphone.com/artikelen.asp?groep=1354)
 
 ###LED grow lights
 Maybe try and make our own white LED light strip. Keep [photosynthetically active radiation](https://en.wikipedia.org/wiki/Photosynthetically_active_radiation) in mind.
@@ -32,4 +32,4 @@ To know how your plants are doing
 To control the system
 
 ###Real Time Clock
-It will need to keep track of time
+It will need to keep track of time [Okaphone link](http://www.okaphone.com/artikel.asp?id=482599)
