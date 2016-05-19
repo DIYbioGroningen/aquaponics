@@ -14,7 +14,7 @@
 Some kind of [Arduino](http://arduino.cc)
 
 ###Soil moisture sensor
-[Found a common one at Okaphone](http://www.okaphone.com/artikel.asp?id=475466) [Hookup guide](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide?_ga=1.194403118.227000660.1460965868)
+[Found a common one at Okaphone](http://www.okaphone.com/artikel.asp?id=475466); [Hookup guide](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide?_ga=1.194403118.227000660.1460965868)
 
 ###Water pump and valves
 To deliver the right ammount of water (and nutrient solution?) to the right plants. [Some of these might work](http://www.okaphone.com/artikelen.asp?groep=1354)
