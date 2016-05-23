@@ -8,7 +8,7 @@
 * peterselie
 * munt 
 * citroenkruid
-*tijm
+* tijm
 * oregano
 * catnip
 * leaf mustard
@@ -17,15 +17,16 @@
 
 ##Groenten en fruit
 * mini tomaat
-*wilde aardbei
-*chilipeper
+* wilde aardbei
+* chilipeper
 
 
 ##Bloemen
-*vida white
+* vida white
     - orange
     - yellow
     - ruby&gold
     - purple
     - blue
     - lemon blue
+    
