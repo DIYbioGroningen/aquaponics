@@ -1,7 +1,7 @@
 #Lijst van mogelijke planten 
 
 
-##Kruiden
+####Kruiden
 
 * basilicum (rood, normaal, dwerg)
   * ph: pH: 5,1-8,5 
@@ -36,13 +36,13 @@
 * stevia
 
 
-##Groenten en fruit
+####Groenten en fruit
 * mini tomaat
 * wilde aardbei
 * chilipeper
 
 
-##Bloemen
+####Bloemen
 * vida white
     - orange
     - yellow
