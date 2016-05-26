@@ -43,7 +43,9 @@
 
 
 ####Bloemen
-* vida white
+* viola: 
+
+    - white  
     - orange
     - yellow
     - ruby&gold
