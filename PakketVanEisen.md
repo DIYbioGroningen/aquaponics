@@ -13,3 +13,9 @@
 -	Maximale groeitijd plant 2 maand
 -	Rekening houden met Ph-waardes 
 -	Groeien op kamertemperatuur 
+
+
+##Zie ook:
+* [Planten lijst](plant list.md)
+* [Electronica lijst](Electronics.md)
+* [Modulair ontwerpen](Modulair Ontwerpen.odt)
