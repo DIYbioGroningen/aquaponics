@@ -6,6 +6,7 @@
  * Water pump and valves
  * LED grow lights
  * pH sensor
+ * Temperature sensor
  * Feedback
  * GUI
  * Real Time Clock
@@ -24,6 +25,9 @@ Maybe try and make our own white LED light strip. Keep [photosynthetically activ
 
 ###pH sensor
 Can be usefull for some plants
+
+###Temperature sensor
+Since this will be inside a room there is already temperature control, but it's still good to see what the actual temperature is. [Sensor](http://www.okaphone.com/artikel.asp?id=483131)
 
 ###Feedback
 To know how your plants are doing
