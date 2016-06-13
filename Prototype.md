@@ -16,5 +16,5 @@ This prototype will be a prove of concept for the mechanism, it will not have al
 * [Soil moisture sensor](http://www.okaphone.com/artikel.asp?id=475466)
 * [Temerature sensor](http://www.okaphone.com/artikel.asp?id=483131)
 * [Real Time Clock](http://www.okaphone.com/artikel.asp?id=482599)
-* Grow lights 
+* [Grow lights](http://www.kweekverlichting.nl/led/strips/) 
 * [LED strip for feedback](http://www.okaphone.com/artikel.asp?id=475308)
